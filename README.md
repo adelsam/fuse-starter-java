@@ -10,6 +10,10 @@ This readme will contain an index to features and their location in code.
  - fuse-starter-java-app.launch will run that main method that starts the spring application context.  This will start a jms listener and REST services.  
  - fuse-starter-java-tests-unit.launch will run unit tests
  - fuse-starter-java-tests-all.launch will run unit + integration tests
+- IntelliJ
+ - "Application" will run the Application main method that starts the spring application context.  This will start a jms listener and REST services.
+ - TBD: fuse-starter-java-tests-unit.launch will run unit tests
+ - TBD: fuse-starter-java-tests-all.launch will run unit + integration tests
 - Maven
  - mvn test will run the unit tests
  - mvn verify will run the unit and integration tests
